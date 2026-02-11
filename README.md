@@ -9,7 +9,7 @@
 <th scope="row">Nascido</th>
 <td>
 <div class="nickname">Renato Amoedo </div>
-<br />**/**/****<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;44)</span><br />
+<br />**/**/1982<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;44)</span><br />
 <div class="birthplace"><a title="Chicago" href="https://pt.wikipedia.org/wiki/Chicago">Bahia, Brasil</a>, EUA</div>
 </td>
 </tr>
